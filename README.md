@@ -1,7 +1,7 @@
 
 # Sorteo de Amigo Secreto
 
-![Banner del proyecto](amigo-secreto.jpeg)
+![Banner del proyecto](assets\amigo-secreto.png)
 
 ## :movie_camera: Demostración visual
 
@@ -73,5 +73,6 @@ Para preguntas, sugerencias, o mejoras puedes abrir un “issue” o contactarme
 **¡Listo para compartir y colaborar en la comunidad!**
 
 ***
+
 
 
