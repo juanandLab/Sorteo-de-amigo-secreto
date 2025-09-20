@@ -5,7 +5,7 @@
 
 ## :movie_camera: Demostración visual
 
-![Demo de la app](amigo-secreto.jpeg)
+![Demo de la app](assets\amigo-secreto.png)
 
 
 Challenge Amigo Secreto.
@@ -73,4 +73,5 @@ Para preguntas, sugerencias, o mejoras puedes abrir un “issue” o contactarme
 **¡Listo para compartir y colaborar en la comunidad!**
 
 ***
+
 
