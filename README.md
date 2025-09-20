@@ -1,7 +1,12 @@
 
 # Sorteo de Amigo Secreto
 
-![Banner del proyecto](umen
+![Banner del proyecto](amigo-secreto.jpeg)
+
+## :movie_camera: Demostración visual
+
+![Demo de la app](amigo-secreto.jpeg)
+
 
 Challenge Amigo Secreto.
 
@@ -68,3 +73,4 @@ Para preguntas, sugerencias, o mejoras puedes abrir un “issue” o contactarme
 **¡Listo para compartir y colaborar en la comunidad!**
 
 ***
+
